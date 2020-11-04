@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "id": 101,
+      "title": "Tangled",
+      "posterPath": "../images/tangled.jpeg"
+    },
+    {
+      "id": 102,
+      "title": "Titanic",
+      "posterPath": "../images/titanic.jpeg"
+    },
+    {
+      "id": 103,
+      "title": "The Lion King",
+      "posterPath": "../images/thelion.jpeg"
+    },
+    {
+      "id": 104,
+      "title": "Aladdin",
+      "posterPath": "../images/aladdin.jpeg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 101,
+      "title": "Tangled",
+      "posterPath": "../images/tangled.jpeg"
+    }
+  ]
+}
